@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.8.15",
+    "heartbeatAt": "2023-02-23T14:38:10.532162",
+    "startedAt": "2023-02-23T14:38:09.135674",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:/Users/liang/Desktop/yolo/tools/wandb_init.py",
+    "codePath": "wandb_init.py",
+    "host": "LAPTOP-HGR27H8F",
+    "username": "liang",
+    "executable": "D:\\anaconda\\envs\\mypytorch\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2900.0,
+        "min": 0.0,
+        "max": 2900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2900.0,
+            "min": 0.0,
+            "max": 2900.0
+        }
+    ],
+    "disk": {
+        "total": 199.99999618530273,
+        "used": 182.60587692260742
+    },
+    "gpu": "GeForce GTX 1650",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "GeForce GTX 1650",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.872379302978516
+    }
+}
